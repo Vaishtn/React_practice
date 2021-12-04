@@ -1,0 +1,86 @@
+{
+    "header": [
+        "name", "mobile", "address"
+    ], 
+    "admin": {
+        "id": "AdminGiftShare",
+        "password": ""
+    },
+    "mapping": {
+    },
+    "giftInfo": [
+        {
+            "name": "Prabhat Ranjan",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101",
+            "giftCategory": "",
+            "id": "prabhat",
+            "password": "gift1234"
+        },
+        {
+            "name": "Bharthi Gowda",
+            "mobile": "7829776166",
+            "address": "#234 Channenahalli, tavakere hobli, Magdi main road, Bangalore south, 562130 Landmark: Opp. to Janseva Vidyakendra school"
+        },
+        {
+            "name": "Subhdra Sundar",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Japarsathik Akbarali",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Naimish Kunwar",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Dattatrey Karki",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Divya R",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Pratyusha Poludashu",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Swati Adiraju",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Hemanth Aravapalli",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Nupur Kumari",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Manish Chawla",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Jayesh Kanchal",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        },
+        {
+            "name": "Nishant Gupta",
+            "mobile": "9066535689",
+            "address": "Near Bijli office, beside Akshvat singh colony, Daltonganj 822101"
+        }
+    ]
+}

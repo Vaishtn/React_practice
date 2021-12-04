@@ -1,0 +1,38 @@
+.grid-wrapper {
+    display: grid;
+    /* grid-template-columns: 33.33% 33.33% 33.33%; */
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    grid-auto-rows: minmax(100px, auto);
+}
+.grid-wrapper > div {
+    background-color: #ccc;
+    padding: 1em;
+}
+.grid-wrapper > div:nth-child(odd) {
+    background-color: #eee;
+}
+
+.options-selector {
+    text-align: left;
+    padding: 15px 0px;
+}
+
+.gtcOptions {
+    text-align: left;
+    padding: 5px 0px;
+}
+
+.options-selector textarea {
+    height: 200px;
+    width: 450px;
+    text-align: left;
+    text-indent: 0;
+    outline: none;
+    overflow: auto;
+    background: #0d3151;
+    color: white;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}

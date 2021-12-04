@@ -1,0 +1,566 @@
+{
+    "customHeroProps": {
+        "headline": {
+            "text": "How can we help?"
+        },
+        "paragraph": {
+            "text": "Select a PayPal Credit help topic using the menu or use the search bar. If you don’t see what you’re looking for, please contact us."
+        },
+        "inputBox": {
+            "placeholder": "Search help topics here"
+        },
+        "noresult": {
+            "text": "No results found"
+        },
+        "links": {
+            "text1": "New to PayPal Credit",
+            "text2": "Already a PayPal Credit Customer",
+            "link1": "/webapps/mpp/paypal-virtual-credit",
+            "link2": "/webapps/mpp/paypal-virtual-credit/existing"
+        }
+    },
+    "faq1": {
+        "content": {
+            "headline": {
+                "text": "Getting Started"
+            },
+            "faqs": [
+                {
+                    "headline": {
+                        "text": "1. How do I apply?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "Applying for PayPal Credit is easy. Simply complete our short application form <a href='https://www.paypal.com/signin/?returnUri=https%3A%2F%2Fwww.paypal.com&state=%2Fcreditapply%2Fapply&onboardData=%7B%22intent%22%3A%22credituk%22%2C%22signUpRequest%22%3A%7B%22method%22%3A%22GET%22%2C%22url%22%3A%22https%3A%2F%2Fwww.paypal.com%2Fcreditapply%2Fapply%3Fnewaccount%3Dtrue%22%7D%7D&forceLogin=true'>here</a> and, if approved and once you accept the Credit Agreement, you’ll have a credit limit linked to your PayPal account almost straight away.<br/> Before you apply, please make sure you: <br/><br/><ul><li>Are a UK resident aged 18 years or older</li><br/><li>Have a good credit history</li><br/><li>Have not recently been declared bankrupt</li><br/><li>Are employed and have an income greater than £7,500 per year</li></ul>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "2. What if I don’t have a PayPal account?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "The first stage of the PayPal Credit application process will ask you to sign into your PayPal account or offer you the opportunity to sign up for one. Once you’ve signed up for a PayPal account, you can begin the application for PayPal Credit. <a href='https://www.paypal.com/signin/?returnUri=https%3A%2F%2Fwww.paypal.com&state=%2Fcreditapply%2Fapply&onboardData=%7B%22intent%22%3A%22credituk%22%2C%22signUpRequest%22%3A%7B%22method%22%3A%22GET%22%2C%22url%22%3A%22https%3A%2F%2Fwww.paypal.com%2Fcreditapply%2Fapply%3Fnewaccount%3Dtrue%22%7D%7D&forceLogin=true'>Click here to apply.</a> <br/><br/>Signing up for a PayPal account is free and easy; all you need to do is provide your email address, create a password and accept our User Agreement."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "3. How long does it take to apply for/receive PayPal Credit?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "The application form takes minutes to complete. We'll then run a credit check and if approved, you’ll have a credit limit linked to your PayPal account once you’ve accepted your credit agreement. This approval process will only take a few seconds and then you’re ready to go. There can be a time lag between approval and when you can view your PayPal Credit account online but this should update within a few days."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "4. I have a business account. How can I sign up for PayPal Credit?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You can contact PayPal Customer Services to change your business account to a personal account to apply for PayPal Credit. Alternatively, you can create a new personal account to apply."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "config": {
+            "theme": "theme-background-color-white",
+            "id": "faq1",
+            "openItems": -1
+        }
+    },
+    "faq2": {
+        "content": {
+            "headline": {
+                "text": "About PayPal Credit"
+            },
+            "faqs": [
+                {
+                    "headline": {
+                        "text": "1. What is PayPal Credit?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "PayPal Credit is like a credit card, without the plastic. It’s a credit limit that’s attached to your PayPal account which you can use for your online purchases."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "2. How does the 0% for 4 months offer work?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "0% interest for 4 months is available on single transactions of £99 or more. It applies automatically to any purchase made using PayPal Credit in excess of this value, except those to which another Promotional Purchase Offer (such as an instalment offer) applies. You can use this offer as many times as you like as long as you have an available credit limit. <br/><br/> Any remaining balance due after the 4-month promotional period or any transactions under £99 will be charged at 19.9% p.a (variable). If you fail to make minimum repayments on time or in certain other circumstances, PayPal may remove your offer. Please see the Credit Agreement for more details."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "3. How do instalment offers with PayPal Credit work?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "With selected merchants, when you check out with PayPal Credit, we’ll show you a selection of instalment offers, enabling you to spread the cost of your purchase across a number of payments. <br/><br/> Subject to application, merchant and status, these instalment offers allow you to choose a set number of monthly payments of differing amounts and at varying interest rates. If you already have PayPal Credit, you can take advantage of these offers without having to reapply as long as you have enough available credit limit."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "4. How much will my credit line be?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "To determine the size of your credit line we use the information you provide in the application form along with internal PayPal data and an external credit check."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "config": {
+            "theme": "theme-background-color-white",
+            "id": "faq2",
+            "openItems": -1
+        }
+    },
+    "faq3": {
+        "content": {
+            "headline": {
+                "text": "Make a Payment"
+            },
+            "faqs": [
+                {
+                    "headline": {
+                        "text": "1. How do I make a payment?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You can make a single payment from your bank account, debit card or PayPal balance at any time, online by logging into your account and clicking 'Make a Payment'.<br/> You can also make a payment by calling PayPal Customer Service on 0800 368 7155. Through customer services, we can accept payment via any debit card, even those not linked to your PayPal account.<div><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-1A.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-1.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-2.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-3.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-4.jpg'></div>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "2. How do I set up a direct debit?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You can set up monthly direct debit payments, provided you have a bank account linked to your PayPal account.<br/> <br/><ol type='1'><li>Log into your PayPal account and select PayPal Credit</li><li>Select “Set up a direct debit payment”</li><li>Choose how much you want to pay each month and from which bank account.</li></ol> <strong>Not added a new bank account to your PayPal account?</strong><br/><br/>To add a new bank account to your PayPal account:<br/><br/><ol type='1'><li>Log in to your account</li><li>Select “wallet”</li><li>Choose “add a bank account”.</li><li>Once a bank is added, you can make payments directly to your PayPal Credit account or set up a direct debit.</li></ol><div><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-1.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-5.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-6.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-7.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-8.jpg'></div>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "3. When will my Direct Debit start?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "There are 4 different options available when you choose to set up Direct Debits. You can choose to pay:<br/><br/><ol type='1'><li>the minimum amount due</li><li>the last statement balance</li><li>any \"other amount\" in between each month.</li><li>If I make changes to my direct debit how long will it take to implement?<br/>If you make changes to your direct debit it can take up to a month to implement which means you may need to add a manual payment in month to ensure you are covered and the direct debit changes will be implemented the following month.</li></ol><br/><br/>If you choose to pay the minimum amount due or the last statement balance, you will need to set up the Direct Debit at least 4 working days before your due date for the Direct Debit to start on that due date. If you set it up any later than this, the Direct Debit may not start until the next month. We will tell you when you’re setting up the Direct Debit exactly when it will take effect from and if you need to make an interim payment.<br/><br/>If you choose to pay any \"other amount\", it is important to note that the Direct Debit will not start on your next due date. It is likely to start the following month. Please be sure to make a single payment the month you set it up to avoid missing any payment due. We will tell you when you’re setting up the Direct Debit exactly when it will take effect from."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "4. I just opened up a PayPal Credit account, when is my payment due?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "We will automatically send you monthly reminders to notify you of when your payment is due. We’ll ask you to make your first payment around 35 days from when your PayPal Credit account was opened."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "5. Can I setup payment due reminder alerts?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "We will automatically send you monthly email reminders 5-15 days in advance of your payment due date. In order to receive these reminders, ensure the correct email address is linked to your PayPal account."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "6. How long does it take for payments to reflect on my account?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "Payments will reflect on your PayPal Credit account the same day you make them, however, will show as pending. It can take up to 5 working days for the funds to leave your bank account and be applied to your PayPal Credit account."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "7. What if I can’t pay?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "If you're finding it difficult to make a payment, Please call our PayPal Credit customer service team on 0800 368 7155 and we will do our best to help you. The organisations below should also be able to answer your questions and suggest suitable courses of action:<br/><br/>Citizens Advice:<br/><br/><ul><li>England and Wales <a href='https://www.citizensadvice.org.uk/'>www.citizensadvice.org.uk</a></li><li>Northern Ireland (Advice NI) <a href='https://www.adviceni.net/'>www.adviceni.net</a></li><li>Scotland (Citizens Advice Scotland) <a href='https://www.cas.org.uk/'>www.cas.org.uk</a></li></ul> Alternatively: <br/><br/><ul><li>Payplan: call 0800 917 7823 or visit <a href='https://www.payplan.com/'>www.payplan.com</a></li><li>StepChange Debt Charity: call 0800 138 1111 or visit <a href='https://www.stepchange.org/'>www.stepchange.org</a></li><li>National Debtline: call 0808 808 4000 or visit <a href='https://www.nationaldebtline.co.uk/'>www.nationaldebtline.co.uk</a></li></ul>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "8. I’ve been using PayPal for a while now. How can I find out when my PayPal Credit payment is due?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You can find this out by logging into your PayPal account on a desktop computer and by clicking on the summary page. You can also view when to make a payment via the app. Click on PayPal Credit and the ‘Make a Payment’ button."
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "9. I have a number of current promotional offers how do I know which will be paid first?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You may have a number of promotional offers with different expiry dates and interest rates. We will always look to allocate your payment to the offer with the highest interest rate and earliest expiry date to ensure you are charged the least amount of interest. Unfortunately, you are unable to choose the order in which your promotional offers are paid off."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "config": {
+            "theme": "theme-background-color-white",
+            "id": "faq3",
+            "openItems": -1
+        }
+    },
+    "faq4": {
+        "content": {
+            "headline": {
+                "text": "Manage your account"
+            },
+            "faqs": [
+                {
+                    "headline": {
+                        "text": "1. How do I manage my account?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "You can keep track of your PayPal Credit activity and history by logging in to your PayPal account and selecting PayPal Credit.<div><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-1A.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-13.jpg'></div>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "2. Where can I find my statements?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "<ol type='1'><li>Login to your PayPal account on your desktop and select PayPal Credit</li><li>Select \"See statements\"</li><li>You can view all statements online as well as download them as PDFs</li></ol>We will email you monthly to let you know when your latest statement is ready to view.<div><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-9.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-10.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-14.jpg'></div>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "3. How can I update my contact details?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "<ol type='1'><li>Login to your PayPal account</li><li>Select the “Settings” icon</li><li>Update your contact details</li></ol><div><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-11.jpg'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/emea/gb/en/paypal-credit/pp-12.jpg'></div>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "headline": {
+                        "text": "4. How do I close my PayPal Credit account?"
+                    },
+                    "item": {
+                        "config": {
+                            "type": "FaqContent"
+                        },
+                        "content": {
+                            "paragraph": {
+                                "text": "Before you close your account, you need to ensure that your balance has been paid off in full.<br/><br/>To close your account, you can call our PayPal Credit customer service team on 0800 368 7155."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "config": {
+            "theme": "theme-background-color-white",
+            "id": "faq4",
+            "openItems": -1
+        }
+    },
+    "source": [
+        {
+            "value": "How do I apply",
+            "keywords": "Apply, How, Application",
+            "url": {
+                "id": "faq1",
+                "class": "accordion__item",
+                "index": 0
+            }
+        },
+        {
+            "value": "What if I don’t have a PayPal account",
+            "keywords": "PayPal, Account, No",
+            "url": {
+                "id": "faq1",
+                "class": "accordion__item",
+                "index": 1
+            }
+        },
+        {
+            "value": "How long does it take to apply for/receive PayPal Credit",
+            "keywords": "Long, Apply",
+            "url": {
+                "id": "faq1",
+                "class": "accordion__item",
+                "index": 2
+            }
+        },
+        {
+            "value": "I have a business account. How can I sign up for PayPal Credit",
+            "keywords": "Business",
+            "url": {
+                "id": "faq1",
+                "class": "accordion__item",
+                "index": 3
+            }
+        },
+        {
+            "value": "What is PayPal Credit",
+            "keywords": "What, Credit, PayPal",
+            "url": {
+                "id": "faq2",
+                "class": "accordion__item",
+                "index": 0
+            }
+        },
+        {
+            "value": "How does the 0% for 4 months offer work",
+            "keywords": "Offer, 0%, 4 months",
+            "url": {
+                "id": "faq2",
+                "class": "accordion__item",
+                "index": 1
+            }
+        },
+        {
+            "value": "How do instalment offers  with PayPal Credit work",
+            "keywords": "Offer, Financing options, Instalment, Instalments, Merchant, Merchants",
+            "url": {
+                "id": "faq2",
+                "class": "accordion__item",
+                "index": 2
+            }
+        },
+        {
+            "value": "How much will my credit line be",
+            "keywords": "Credit limit, How much",
+            "url": {
+                "id": "faq2",
+                "class": "accordion__item",
+                "index": 3
+            }
+        },
+        {
+            "value": "How do I make a payment",
+            "keywords": "Payment, Make, Single, Minimum",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 0
+            }
+        },
+        {
+            "value": "How do I set up a direct debit",
+            "keywords": "Direct, Debit",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 1
+            }
+        },
+        {
+            "value": "I just opened up a PayPal Credit account, when is my payment due",
+            "keywords": "Payment, Due, Date",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 3
+            }
+        },
+        {
+            "value": "Can I setup payment due reminder alerts",
+            "keywords": "Payment Due, Reminder, Alerts",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 4
+            }
+        },
+        {
+            "value": "How long does it take for payments to reflect on my account",
+            "keywords": "Payments, Long, Balance",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 5
+            }
+        },
+        {
+            "value": "What if I can’t pay",
+            "keywords": "Can’t pay, Advice, Customer, service",
+            "url": {
+                "id": "faq3",
+                "class": "accordion__item",
+                "index": 6
+            }
+        },
+        {
+            "value": "How do I manage my account",
+            "keywords": "Manage, Statement, Transactions, history",
+            "url": {
+                "id": "faq4",
+                "class": "accordion__item",
+                "index": 0
+            }
+        },
+        {
+            "value": "Where can I find my statements",
+            "keywords": "Statement, Statements",
+            "url": {
+                "id": "faq4",
+                "class": "accordion__item",
+                "index": 1
+            }
+        },
+        {
+            "value": "How can I update my contact details",
+            "keywords": "Contact, Update, Change, Details",
+            "url": {
+                "id": "faq4",
+                "class": "accordion__item",
+                "index": 2
+            }
+        },
+        {
+            "value": "How do I increase my credit limit",
+            "keywords": "Limit, Increase, Decrease",
+            "url": {
+                "id": "faq9",
+                "class": "accordion__item",
+                "index": 0
+            }
+        },
+        {
+            "value": "How do I close my PayPal Credit account",
+            "keywords": "Close, Customer, Service",
+            "url": {
+                "id": "faq4",
+                "class": "accordion__item",
+                "index": 3
+            }
+        }
+    ]
+}

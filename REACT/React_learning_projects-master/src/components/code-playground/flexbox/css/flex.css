@@ -1,0 +1,114 @@
+@media screen and (min-width: 768px) {
+    .flex-container {
+      display: flex;
+      /* align-items: flex-start; */
+      /* align-items: flex-end; */
+      /* align-items: center; */
+      /* default property */
+      /* align-items: stretch;  */
+
+      /* Direction */
+      /* default property */
+      /* flex-direction: row; */
+      /* flex-direction: column; */
+    }
+    .container-2 {
+      display: flex;
+      /* justify-content: flex-start; */
+      /* justify-content: flex-end; */
+      /* justify-content: center; */
+      justify-content: space-between;
+      /* Add space at start and end as well */
+      /* justify-content: space-evenly; */
+      /* justify-content: space-around; */
+    }
+  }
+
+  .container-3 {
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; */
+    /* Shorthand property for flex direction and aslo includes wrapping */
+    flex-flow: row wrap;
+  }
+
+  .container-4 {
+    display: flex;
+    width: 400px;
+    height: 200px;
+  }
+  .container-5 {
+    display: flex;
+    height: 200px;
+  }
+
+  .flex-container > div,
+  .container-2 > div,
+  .container-3 > div,
+  .container-4 > div, 
+  .container-4 > div {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  .box1 {
+    flex: 2;
+    order: 2;
+  }
+  .box2 {
+    flex: 1;
+    order: 1;
+  }
+  .box3 {
+    flex: 1;
+    order: 3;
+  }
+  .container-2-box {
+    /* width: 30%; */
+    /* Flex way to give width */
+    flex-basis: 30%;
+  }
+  .container-3-box {
+    /* width: 30%; */
+    /* Flex way to give width */
+    flex-basis: 15%;
+  }
+  /* Flex Shrink Example */
+  .container-4-box-1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: coral;
+  }
+  .container-4-box-2 {
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: cornflowerblue;
+  }
+  .container-4-box-3 {
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: darkgrey;
+  }
+  .container-4-box-1,
+  .container-4-box-2,
+  .container-4-box-3 {
+    flex-basis: 200px;
+  }
+  .container-4-box-3 {
+    flex-shrink: 3;
+  }
+
+  /* Flex Grow example */
+  .container-5-box-1 {
+    flex-grow: 1;
+    background-color: coral;
+  }
+  .container-5-box-2 {
+    flex-grow: 3;
+    background-color: cornflowerblue;
+  }
+  .container-5-box-3 {
+    flex-grow: 1;
+    background-color: darkgrey;
+  }

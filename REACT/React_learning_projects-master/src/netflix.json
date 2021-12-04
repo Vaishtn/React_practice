@@ -1,0 +1,46 @@
+{
+    "sdata": [
+    {
+        "imgsrc":"https://wallpapercave.com/wp/wp4056398.png",
+        "title":"A Netflix Original Series",
+        "sname":"Dark",
+        "link":"https://www.netflix.com/in/title/80100172",
+        "key":"first_card"
+    },
+    {
+        "imgsrc":"https://wallpaperaccess.com/full/2331346.jpg" ,
+        "title":"A Netflix Original Series",
+        "sname":"Money Heist" ,
+        "link":"https://www.netflix.com/in/title/80192098",
+        "key":"second_card"
+    },
+    {
+        "imgsrc":"https://i.ytimg.com/vi/ceqOTZnhgY8/maxresdefault.jpg",
+        "title":"A Netflix Original Series",
+        "sname":"Breaking Bad",
+        "link":"https://www.netflix.com/in/title/70143836",
+        "key":"third_card"
+    },
+    {
+        "imgsrc":"https://corporate.target.com/_media/TargetCorp/news/2017/10/Netflix%20Stranger%20Things/StrangerThings_Header_940x470.jpg?width:940&height:470&ext:.jpg", 
+        "title":"A Netflix Original Series",
+        "sname":"Stranger Things",
+        "link":"https://www.netflix.com/in/title/80057281",
+        "key":"fourth_card"
+    },
+    {
+        "imgsrc":"https://barbarashdwallpapers.com/wp-content/uploads/2014/02/Friends-wallpapers-flowers-1.jpg",
+        "title":"A Netflix Original Series",
+        "sname":"Friends",
+        "link":"https://www.netflix.com/in/title/70153404",
+        "key":"fifth_card"
+    },
+    {
+        "imgsrc":"https://wallpapercave.com/wp/wp6756794.jpg",
+        "title":"A Netflix Original Series",
+        "sname":"Lucifer",
+        "link":"https://www.netflix.com/in/title/80057918",
+        "key":"sixth_card"
+    }
+    ]}
+    

@@ -1,0 +1,97 @@
+{
+    "tableHeading": {
+        "headingOne": "",
+        "headingTwo": "Fraud Protection",
+        "headingThree": "Fraud Protection Advanced",
+        "headingFour": "Extra heading"
+    },
+    "tableData": [
+        {
+            "text": "No new integration",
+            "icon1": true,
+            "icon2": true,
+            "text2": "Bharthi"
+        },
+        {
+            "text": "Machine learning based score",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Extensive PayPal intelligence",
+            "icon1": true,
+            "icon2": true,
+            "text2": "Prabhat"
+        },
+        {
+            "text": "Device fingerprinting",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Auto decisioning",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Out-of-the-box, custom filters",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Filter testing",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Actionable filter recommendations",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Dashboard",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Sandbox",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Block list",
+            "icon1": true,
+            "icon2": true
+        },
+        {
+            "text": "Allow list",
+            "icon1": false,
+            "icon2": true
+        },
+        {
+            "text": "Create new filters",
+            "icon1": false,
+            "icon2": true
+        },
+        {
+            "text": "Custom fields",
+            "icon1": false,
+            "icon2": true
+        },
+        {
+            "text": "Case management",
+            "icon1": false,
+            "icon2": true
+        },
+        {
+            "text": "Case management",
+            "icon1": false,
+            "icon2": true
+        },
+        {
+            "text": "Graph view",
+            "icon1": false,
+            "icon2": true
+        }
+    ]
+}
